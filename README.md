@@ -44,7 +44,7 @@ php artisan key:generate
 Create a MySQL database called "lavcrudapp". You can also use another database (SQLite, Postgres), simply update your configuration accordingly.
 
 ```mysql
-CREATE DATABASE drippiper;
+CREATE DATABASE lavcrudapp;
 ```
 
 Run database migrations:
